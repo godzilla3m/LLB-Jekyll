@@ -1,5 +1,3 @@
-# LLB-s04
-
 # 📚 LLB Notes
 
 ## Semester 4 Papers
