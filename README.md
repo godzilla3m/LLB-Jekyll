@@ -1,4 +1,4 @@
-# 📚 LLB Notes
+# 📚 LLB Note
 2nd year, 4th semester, papers
 
 ## Semester 4 Papers
